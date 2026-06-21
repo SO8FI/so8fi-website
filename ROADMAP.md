@@ -56,3 +56,11 @@
 - корисність
 
 Оцінка: 10/10
+
+R-006
+
+2.1 Registration
+
+Status: COMPLETED
+
+Score: 10/10
