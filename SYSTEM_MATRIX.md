@@ -111,7 +111,22 @@ All keys lost = account permanently inaccessible.
 System does not store recovery copies.
 
 Registration Result:
+
+## Registration Session
+
+Registration Date
+
+Registration Time
+
+Registration Country
+
+Registration Device
+
+Registration Source
+
+Registration Status
 --------------------------------------------------
+
 Corporate Mailbox
 
 After successful registration
@@ -140,8 +155,8 @@ Duplicate accounts are not allowed.
 
 System checks:
 
-- Biometric identity
-- Device identity
+- Biometric verification
+- Device verification
 - Security markers
 
 --------------------------------------------------
@@ -184,3 +199,19 @@ User must explicitly confirm:
 I understand that the platform cannot restore access if all keys are lost."
 
 Registration cannot be completed without confirmation.
+
+## Registration Completion
+
+Before activation user must confirm:
+
+✓ Keys saved
+
+✓ Rules accepted
+
+✓ Privacy Policy accepted
+
+✓ Responsibility accepted
+
+Only after confirmation:
+
+Account Status = Active
