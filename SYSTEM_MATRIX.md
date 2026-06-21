@@ -112,6 +112,15 @@ System does not store recovery copies.
 
 Registration Result:
 --------------------------------------------------
+Corporate Mailbox
+
+After successful registration
+the system creates a corporate mailbox
+for the user.
+
+The mailbox becomes the official
+communication channel inside the platform.
+--------------------------------------------------
 
 ## Registration Conditions
 
@@ -136,24 +145,6 @@ System checks:
 - Security markers
 
 --------------------------------------------------
-
-## Contact Information
-
-User provides:
-
-- Email OR
-- Mobile Phone
-
-Purpose:
-
-- Important notifications
-- Security alerts
-- System messages
-
-Contact information is not used as login method.
-
---------------------------------------------------
-
 ## Account Status
 
 Possible statuses:
