@@ -111,10 +111,85 @@ All keys lost = account permanently inaccessible.
 System does not store recovery copies.
 
 Registration Result:
+--------------------------------------------------
 
-User status changes:
+## Registration Conditions
 
-Guest (1.xx)
-→
-Registered User (2.xx)
+User confirms:
 
+- Platform Rules
+- Privacy Policy
+- Responsibility for access keys
+
+--------------------------------------------------
+
+## Identity Rule
+
+One Person = One Account
+
+Duplicate accounts are not allowed.
+
+System checks:
+
+- Biometric identity
+- Device identity
+- Security markers
+
+--------------------------------------------------
+
+## Contact Information
+
+User provides:
+
+- Email OR
+- Mobile Phone
+
+Purpose:
+
+- Important notifications
+- Security alerts
+- System messages
+
+Contact information is not used as login method.
+
+--------------------------------------------------
+
+## Account Status
+
+Possible statuses:
+
+2.1.01 Active
+
+2.1.02 Limited
+
+2.1.03 Archived
+
+2.1.04 Blocked
+
+--------------------------------------------------
+
+## Registration Audit Record
+
+Upon registration system records:
+
+- Registration Date
+- Registration Time
+- Country
+- Device Type
+- Source of Registration
+
+Record stored by Digital Notary.
+
+--------------------------------------------------
+
+## Security Warning
+
+Before registration completion:
+
+User must explicitly confirm:
+
+"I have saved my keys.
+
+I understand that the platform cannot restore access if all keys are lost."
+
+Registration cannot be completed without confirmation.
