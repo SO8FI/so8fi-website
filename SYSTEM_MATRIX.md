@@ -76,6 +76,30 @@ User confirms responsibility for personal access keys.
 Step 3:
 User completes biometric verification through personal device.
 
+--------------------------------------------------
+
+## Biometric Security Rule
+
+Biometric data is NOT stored by the platform.
+
+Biometric verification is performed only by the user's device.
+
+The platform receives only verification result:
+
+- Verified
+- Not Verified
+
+No biometric templates,
+images,
+fingerprints,
+retina scans,
+or facial recognition data
+are stored inside the platform.
+
+Biometric verification is used only for identity confirmation during registration and access authorization.
+
+--------------------------------------------------
+
 Supported methods:
 
 - Face ID
